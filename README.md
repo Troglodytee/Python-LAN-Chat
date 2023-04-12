@@ -13,11 +13,11 @@ This is a simple LAN chat with a window console style.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python socket library
-- Python threading library
-- Python random library
-- Python time library
+- Python `tkinter` library
+- Python `socket` library
+- Python `threading` library
+- Python `random` library
+- Python `time` library
 ## Usage
 To send a message you have to use `ENTER` after typing something.
 
