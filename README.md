@@ -1,7 +1,7 @@
 # Python-LAN-Chat
 ![Preview image](./preview/preview.jpg)
 
-This is a simple LAN chat with a window console style.
+This is a simple LAN chat with a windows console style.
 ## Features
 - Host a discussion or connect to a discussion
 - Possibility to lock a discussion
